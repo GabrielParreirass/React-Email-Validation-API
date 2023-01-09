@@ -4,3 +4,6 @@ projeto usando a API https://emailvalidation.io/, para a validação de emails, 
 //
 
 project using the https://emailvalidation.io/ API, to validate emails, verifying if the inserted email, already exists and if it has a valid format. Using the state management to show the responses in the screen, and Axios for the requests.
+
+
+url da aplicação => https://gabrielparreirass.github.io/React-Email-Validation-API/
